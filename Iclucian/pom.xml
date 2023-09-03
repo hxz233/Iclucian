@@ -58,6 +58,21 @@
             <artifactId>reactor-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.iclucian</groupId>
+            <artifactId>iclucian-common</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.iclucian</groupId>
+            <artifactId>iclucian-framework</artifactId>
+            <version>2.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.iclucian</groupId>
+            <artifactId>iclucian-system</artifactId>
+            <version>2.3.1</version>
+        </dependency>
     </dependencies>
 
     <build>
