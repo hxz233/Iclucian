@@ -12,6 +12,9 @@
   <!-- 优质的 spring/boot/data/security/cloud 框架中文文档尽在 => https://springdoc.cn -->
 	<artifactId>iclucian-system</artifactId>
 	<description>iclucian-system</description>
+
+	<packaging>jar</packaging>
+
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
